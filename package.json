@@ -1,0 +1,31 @@
+{
+  "name": "boostrap",
+  "version": "1.0.0",
+  "description": "bootstrap first project",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satakshi25/bootstrap.github.io.git"
+  },
+  "author": "satakshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/satakshi25/bootstrap.github.io/issues"
+  },
+  "homepage": "https://github.com/satakshi25/bootstrap.github.io#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "bootstrap-social": "^5.1.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9"
+  }
+}

@@ -1,0 +1,42 @@
+.jumbotron
+{
+    
+        padding:70px 30px 70px 30px;
+        margin:0px auto;
+        background: #7640d3 ;
+        color:floralwhite;
+    
+}
+.start
+{
+        margin-top: 1%;
+}
+.slide {
+        background:#724cc9;
+        margin-top:10%;
+        margin-bottom:10%;
+    }
+    
+    .carousel-item {
+      height: 300px;
+      color:black;
+    }
+    
+    .carousel-item img {
+        position: absolute;
+        top: 0;
+        left: 0;
+        min-height: 300px;
+    }
+
+    .modal-header
+    {background-color: #7237d8;}
+    .modal-body
+    {
+        background-color:#b090e9; 
+    }
+
+    form
+    {
+            background-color:#b090e9;
+    }
